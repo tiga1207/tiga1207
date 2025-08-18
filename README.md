@@ -12,6 +12,7 @@
           <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
           </div>
     </div>
+    <!--
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://velog.io/@tiga1207> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@tiga1207"> </a>
@@ -19,6 +20,7 @@
           </div>  <br> 
        </div> 
     </div>
+    -->
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiga1207&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
           /> </div> 
